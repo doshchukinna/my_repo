@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Changes from feature1!
 =======
 Changes from feature2!
 >>>>>>> feature2
+=======
+Hello from feature3!
+>>>>>>> feature3
